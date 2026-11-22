@@ -1,16 +1,24 @@
-## Hi there <h2 align="center">I'm Rina  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+# Hi there! 👋
 
+<h2 align="center">I'm Rina 🌸</h2>
 
-**rinaandre97-alt/rinaandre97-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+### 🌱 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I'm currently studying digital technology.
+- 💻 I'm learning the basics of programming.
+- 🚀 I'm discovering GitHub and how to manage projects.
+- 📚 I'm improving my skills step by step.
+- 🤝 I'm interested in working on projects with other people.
+- 🎯 My goal is to become better at coding and learn new things.
+
+### 💡 What I'm learning
+
+- HTML & CSS
+- Programming basics
+- Git and GitHub
+- Digital tools and technologies
+
+### 💬 Thanks for visiting my profile! 💗
 
